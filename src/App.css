@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.abouth1 {
+  color: red;
+}
+.home h1 {
+  color: green;
+}
+.woman{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.maindiv {
+  height: 100vh;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+.navbar {
+  background-color: black;
+  color: white;
+}
+.navbar ul{
+  display: flex;
+}
+.navbar ul li {
+  list-style-type: none;
+  padding: 20px;
+}
+.links {
+  color: white;
+  text-decoration: none;
+}
